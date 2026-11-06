@@ -1,0 +1,13 @@
+{
+  "name": "donatov-uz-bot",
+  "version": "1.0.0",
+  "description": "DONATOV UZ Telegram Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0",
+    "pg": "^8.13.1"
+  }
+}
